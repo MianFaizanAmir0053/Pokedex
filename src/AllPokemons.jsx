@@ -70,7 +70,7 @@ const AllPokemons = () => {
               key={pokemon.name}
               className="bg-center max-w-[15rem] bg min-h-[15rem] sm:h-[18rem]  w-[100%] rounded-md shadow-md text-white font-bold text-center"
               style={{
-                backgroundImage: "url('src/assets/list_pokemon_bg.png')",
+                backgroundImage: "url('https://sg.portal-pokemon.com/play/resources/pokedex/img/list_pokemon_bg.png')",
               }}
             >
               <div className="textalign">
